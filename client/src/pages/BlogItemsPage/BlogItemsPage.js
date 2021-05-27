@@ -10,7 +10,7 @@ import sql from '../../images/SQl.png'
 import css from '../../images/Css.png'
 import { CardBlogTitle } from "../../components/Card-Blog-Title/Card-Blog-Title";
 import { CardBlogList } from "../../components/Card-blog-list/Card-blog-list";
-const server = "https://my-dev-blog.herokuapp.com";
+const server = "http://localhost:5000/";
 
 const imageMap = new Map([
     ["Android",android],
