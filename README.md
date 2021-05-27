@@ -33,7 +33,6 @@
  ```bash
   cd Server 
   npm install
-  npm install nodemon -D
  ```
 #### Запуск сервера:
 ```bash
