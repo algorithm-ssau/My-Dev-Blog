@@ -4,7 +4,7 @@ import { BlogTextBody } from "../../components/BlogTextBody/BlogTextBody";
 import { BlogTextHeader } from "../../components/BlogTextHeader/BlogTextHeader";
 import { BlogAuthor } from "../../components/BlogAuthor/BlogAuthor";
 import { BlogTextLikeButton } from "../../components/BlotTextLikeButton/BlogTextLikeButton";
-const server = "https://my-dev-blog.herokuapp.com";
+const server = "http://localhost:5000/";
 
 export default class BlogTextPage extends Component{
     constructor(props){
